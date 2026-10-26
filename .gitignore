@@ -1,0 +1,32 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules
+.npm
+
+# Build output
+dist
+dist-ssr
+
+# Editor / OS
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea
+*.swp
+*.swo
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Vite
+*.local
+
+# Qwen tmp
+.qwen
